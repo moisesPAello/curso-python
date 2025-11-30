@@ -5,11 +5,16 @@ numero = 10
 #float / Decimal
 float = 13.14
 
-# Character / Caracter
+#Character / Caracter
 character = '$'
 
 #String / cadena de caracteres
 cadena = "hola como estas yo muy bien y tu"
+
+#Booleano / true o false
+booleano = True
+booleano2= False
+# Binario 01
 
 # Mal uso de indetificadores
 # Contraintuitivo
